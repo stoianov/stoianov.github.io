@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stoianov.github.io/sitemap.xml
